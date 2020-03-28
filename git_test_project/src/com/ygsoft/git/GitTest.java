@@ -16,4 +16,8 @@ public class GitTest {
         System.out.println("git测试了");
         System.out.println("git测试了");
     }
+
+    public void test(){
+        int i = 10;
+    }
 }
