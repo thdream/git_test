@@ -17,9 +17,11 @@ public class GitTest {
         System.out.println("git测试了");
         System.out.println("git测试了");
         System.out.println("fffffffffffff");
+        //hello jso
     }
 
     public void test(){
         int i = 10;
+        System.out.println("jkfvnl");
     }
 }
